@@ -1,0 +1,6 @@
+pandas==2.0.0
+scikit-learn==1.3.0
+seaborn==0.12.2
+matplotlib==3.7.1
+numpy==1.25.0
+pickle5==0.0.11  # Note: `pickle` is a built-in Python module, so it's not needed in requirements.txt. Use `pickle5` if you need a compatible version.
